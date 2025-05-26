@@ -55,3 +55,6 @@ Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=migueljrdev&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljrdev&layout=compact&theme=radical)
