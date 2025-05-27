@@ -12,7 +12,7 @@ Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -55,6 +55,14 @@ Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=migueljrdev&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljrdev&layout=compact&theme=radical)
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueljrdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljrdev&layout=compact&theme=radical" />
+</div>
+
