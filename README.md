@@ -40,6 +40,14 @@ Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas 
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Firebase"
     title="Firebase" 
     width="30px" 
@@ -47,14 +55,7 @@ Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <br>
 
 ---
@@ -62,7 +63,7 @@ Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas 
 ## 📊 Estatísticas do GitHub
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueljrdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljrdev&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=migueljrdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br" />&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljrdev&layout=compact&theme=radical&locale=pt-br" />
 </div>
 
