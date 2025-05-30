@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Frontend`**
 
-Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas pela UNICID e realizo curso online pela B7Web. Atualmente, estou trilhando o front-end, futuramente também no back-end. Sou apaixonada por tecnologia e espero construir uma carreira e viver através da tecnologia.
+Me chamo José Miguel da Silva Jr, curso Análise e Desenvolvimento de Sistemas pela UNICID e realizo curso online pela B7Web. Atualmente, estou trilhando o front-end, futuramente também no back-end. Sou apaixonado por tecnologia e espero construir viver e carreira na tecnologia.
 
 <div> 
   <a href="https://www.linkedin.com/in/miguel-júnior-03048332a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
